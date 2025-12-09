@@ -4,7 +4,7 @@
 
 🚀 免费体验 Gemini 2.5 pro | GPT 5.1 | Grok 4.1 | DeepSeek V3.2
 
-支持 OpenAI | Anthropic | Gemini | DeepSeek | Grok
+支持 OpenAI | Anthropic | Gemini | DeepSeek | Grok | Qwen | GLM | Kimi 等优质模型
 
 ⚡️ 毫秒级响应 · 国内直连 · 统一接口 · 极光UI
 
