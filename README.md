@@ -8,7 +8,7 @@
 
 ⚡️ 毫秒级响应 · 国内直连 · 统一接口 · 极光UI
 
-[🌐 官方网站](https://zero0api.netlib.re) / [🔑 获取免费Key](https://zero0api.netlib.re/console/token) 
+[🌐 官方网站](https://1ai.de5.net) / [🔑 获取免费Key](https://1ai.de5.net/console/token) 
 
 </div>
 
