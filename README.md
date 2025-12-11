@@ -8,7 +8,7 @@
 
 ⚡️ 毫秒级响应 · 国内直连 · 统一接口 · 极光UI
 
-[🌐 官方网站](https://1ai.de5.net) / [🔑 获取免费Key](https://1ai.de5.net/console/token) 
+[🌐 官方网站](https://0api.qzz.io) / [🔑 获取免费Key](https://0api.qzz.io/console/token) 
 
 </div>
 
