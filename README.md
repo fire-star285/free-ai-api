@@ -2,7 +2,7 @@
 <img src="https://img.icons8.com/?size=100&id=3AGcFzTtvOPb&format=png&color=000000" alt="Zero API Logo" width="80px"/>
 <h1 align="center">Zero API - $0 AI 中转站</h1>
 
-🚀 免费体验 Gemini 2.5 pro | GPT 5.1 | Grok 4.1 | DeepSeek V3.2
+🚀 免费体验 Gemini 3 pro | GPT 5.2 | Grok 4.1 | DeepSeek V3.2
 
 支持 OpenAI | Anthropic | Gemini | DeepSeek | Grok | Qwen | GLM | Kimi 等优质模型
 
@@ -17,7 +17,7 @@
 ## ✨ 核心特点
 
 1. **全模型矩阵支持**
-   支持 **GPT-5.1**, **Claude 4.5 Sonnet**, **DeepSeek V3.2**, **Gemini 3 Pro** 等全球顶尖模型。
+   支持 **GPT-5.2**, **Claude 4.5 Sonnet**, **DeepSeek V3.2**, **Gemini 3 Pro** 等全球顶尖模型。
 
 2. **极致的性能体验**
    - **毫秒级延迟**：国内多节点动态加速，实测延迟低至 45ms（可在官网首页实时查看）。
